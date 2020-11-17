@@ -1,0 +1,7 @@
+[submodule "back"]
+	path = server
+	url = git://github.com/EISAWESOME/magipack-back.git
+
+[submodule "front"]
+	path = www
+	url = git://github.com/EISAWESOME/magipack-front.git
